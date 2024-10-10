@@ -11,13 +11,17 @@
 		<h3 align="center">A passionate Backend developer from Colombia and professional sleeping player</h3>
 	<ul>
 
-<img align="left" src="https://i.imgur.com/Ws9Gckz.png" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
+<br>
+
+<img align="center" src="https://i.imgur.com/Ws9Gckz.png" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
 
 - 🔭 I’m currently working on **some java projects**
 - 🌱 I’m currently learning **Java, React and php**
 - 💬 Ask me about **java, ccs or mysql**
 - 📫 How to reach me **roajhon98@gmail.com**
 - ⚡ Fun fact **I love cats**
+
+<br><br>
 
 <p align="center">
 <table align="center">

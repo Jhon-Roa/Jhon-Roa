@@ -10,16 +10,14 @@
 	<ul align="center">
 		<h3 align="center">A passionate Backend developer from Colombia and professional sleeping player</h3>
 	<ul>
-<div>
 
-<div style="display: flex; align-items: center; justify-content: center;">
-    <img width="150" height="150" src="https://i.imgur.com/Ws9Gckz.png" style="border-radius: 50%; object-fit: cover; margin-right: 0;">
-    <span style="margin-left: 0;">- 🔭 I’m currently working on **some java projects**<br>
-        - 🌱 I’m currently learning **Java, React and php**<br>
-        - 💬 Ask me about **java, ccs or mysql**<br>
-        - 📫 How to reach me **roajhon98@gmail.com**<br>
-        - ⚡ Fun fact **I love cats**</span>
-</div>
+<img align="left" src="https://i.imgur.com/Ws9Gckz.png" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
+
+- 🔭 I’m currently working on **some java projects**
+- 🌱 I’m currently learning **Java, React and php**
+- 💬 Ask me about **java, ccs or mysql**
+- 📫 How to reach me **roajhon98@gmail.com**
+- ⚡ Fun fact **I love cats**
 
 <p align="center">
 <table align="center">

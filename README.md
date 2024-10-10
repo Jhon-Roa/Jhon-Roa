@@ -12,13 +12,11 @@
 	<ul>
 <br>
 
-<div align="center">	
-	- 🔭 I’m currently working on **some java projects**
-	- 🌱 I’m currently learning **Java, React and php**
-	- 💬 Ask me about **java, ccs or mysql**
-	- 📫 How to reach me **roajhon98@gmail.com**
-	- ⚡ Fun fact **I love cats**
-</div>
+- 🔭 I’m currently working on **some java projects**
+- 🌱 I’m currently learning **Java, React and php**
+- 💬 Ask me about **java, ccs or mysql**
+- 📫 How to reach me **roajhon98@gmail.com**
+- ⚡ Fun fact **I love cats**
 
 <br><br>
 

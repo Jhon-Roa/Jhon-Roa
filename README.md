@@ -23,18 +23,6 @@
 <p align="center">
 <table align="center">
 <tr border="none">
-<td width="50%" align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Jhon-Roa&theme=dark&show_icons=true&count_private=true"
-  />
-
-  <br>
-
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Jhon-Roa&theme=dark&hide_border=false"
-    alt="GitHub Streak"
-  />
-</td>
 
 <td width="50%" align="center">
 
